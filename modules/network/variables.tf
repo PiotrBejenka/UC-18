@@ -47,7 +47,7 @@ variable "pub_rt_name" {
 
 variable "priv_rt_name" {
     type    = string
-    default = "GenAI_pub_rt_uc18"
+    default = "GenAI_priv_rt_uc18"
 }
 
 variable "cidr_all" {
